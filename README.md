@@ -19,9 +19,9 @@ Of the ten classes of images, the models did well with seven and had trouble wit
 ResNet50 performed the best with an overall accuracy of 84% and class F1-scores ranging from .58 to .99. 
 
 ### Data Preparation and Analysis
-
-[Data Wrangling](https://github.com/tcardwell/Predicting-Distracted-Drivers/blob/master/1_Data_Preprocessing.ipynb)
-[Data Augmentation Visualization](https://github.com/tcardwell/Predicting-Distracted-Drivers/blob/master/2_Visualize_Data_Augmentation.ipynb)
+ 
+[Data Wrangling](https://github.com/tcardwell/Predicting-Distracted-Drivers/blob/master/1_Data_Preprocessing.ipynb)    
+[Data Augmentation Visualization](https://github.com/tcardwell/Predicting-Distracted-Drivers/blob/master/2_Visualize_Data_Augmentation.ipynb)    
 
 ### Modeling
 
