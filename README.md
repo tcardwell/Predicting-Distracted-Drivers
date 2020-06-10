@@ -25,4 +25,9 @@ ResNet50 performed the best with an overall accuracy of 84% and class F1-scores 
 
 ### Modeling
 
-[Predicting Distracted Drivers](https://nbviewer.jupyter.org/github/tcardwell/Predicting-Distracted-Drivers/blob/master/3_Model.ipynb)
+[Predicting Distracted Drivers](https://nbviewer.jupyter.org/github/tcardwell/Predicting-Distracted-Drivers/blob/master/3_Model.ipynb)   
+
+### Reporting   
+
+[Final Report](https://github.com/tcardwell/Predicting-Distracted-Drivers/blob/master/reports/final%20report.pdf)   
+[Presentation](https://github.com/tcardwell/Predicting-Distracted-Drivers/blob/master/reports/Predicting%20Distracted%20Driving.pdf)   
